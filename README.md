@@ -33,10 +33,7 @@ Sharing my journey — one bug at a time 🐞
 
 ### 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1375875117602570270)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sarthaknology)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/sarthaknology)  
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:sarthaknology@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1375875117602570270)  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sarthaknology)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/sarthaknology)  [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:sarthaknology@proton.me)
 
 ---
 
